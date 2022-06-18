@@ -1,8 +1,3 @@
-# =============================
-# Student Names: Hannah Larsen, Nathan Saric
-# Group ID: Group 13
-# Date: February 13, 2022
-# =============================
 # csp_sample_run.py
 # desc: provides a sample csp implementation of a simple math problem, the colouring of the australian graph, and
 #       the n-queens problem.
