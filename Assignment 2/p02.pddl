@@ -1,7 +1,7 @@
 ; =============================
 ; Student Names: Hannah Larsen, Nathan Saric
 ; Group ID: Group 13
-; Date: March 9th, 2022
+; Date: March 9, 2022
 ; =============================
 (define (problem p2-dungeon)
   (:domain Dungeon)
