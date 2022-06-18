@@ -1,4 +1,8 @@
-
+# =============================
+# Student Names: Hannah Larsen, Nathan Saric
+# Group ID: Group 13
+# Date: February 13, 2022
+# =============================
 # cspbase.py
 # desc: provides all the basic building blocks of a CSP, including a Back Tracing based solver class.
 #       Includes:
