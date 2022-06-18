@@ -1,9 +1,3 @@
-# =============================
-# Student Names: Hannah Larsen, Nathan Saric
-# Group ID: Group 13
-# Date: February 13, 2022
-# =============================
-
 from cspbase import *
 from cagey_csp import *
 from propagators import *
